@@ -1,0 +1,3 @@
+What is dB ?
+
+Decibel. A unit for measuring the relative strength of a signal. Usually expressed as the logarithmic ratio of the strength of a transmitted signal to the strength of the original signal. A decibel is one tenth of a "bel".

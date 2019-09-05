@@ -1,0 +1,28 @@
+Wednesdays Soundproofing Question.
+
+What is a decibel (dB)?
+
+The decibel is a logarithmic unit for ratios that is used in a number of scientific disciplines. 
+Other examples are the Richter scale for earthquake event energy and pH for hydrogen ion concentration in liquids. 
+
+In all cases the logarithmic measure is used to compare the quantity of interest with a 
+reference value, often the smallest likely value of the quantity. Sometimes that reference 
+can be an approximate or average value. 
+
+Most often in common acoustics, the decibel is used to compare the sound pressure level (SPL) 
+in air with a reference pressure. 
+The reference level for sound intensity (I), sound power level (PWL) and sound pressure 
+in water are amongst others that are in common use: 
+
+Reference sound pressure (in air) = 0.00002 = 2E-5 Pa (rms) " " 
+Intensity = 0.000000000001 = 1E-12 W/m^2 " " 
+Power = 0.000000000001 = 1E-12 W " " 
+Pressure (water) = 0.000001 = 1E-6 Pa Acousticians use the dB scale for the following reasons: 
+1) Quantities of interest often exhibit such huge ranges of variation that a dB scale is 
+More convenient than a linear scale. For example, sound pressure radiated by a 
+Submarine may vary by eight orders of magnitude depending on direction; expression in 
+Linear units carry with it the confusion of the location of the decimal point. 
+Decibels values are characteristically between only -999 to +999. 
+2) The human ear interprets loudness more easily represented with a 
+Logarithmic scale than with a linear scale.
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.google.com/schemas/sitemap/0.84"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+                      http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+
+<url>
+  <loc>http://www.noisestopsystems.sg/</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.noisestopsystems.sg/file:///C|/Documents%20and%20Settings/unimatrix%20zero%20one/Desktop/workfiles%202/noisestop%20UK/assets/docs/co%20docs/sound_proofing_brochure.pdf</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.noisestopsystems.sg/index.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.noisestopsystems.sg/about_us_soundproofing_asia_singapore_buy_products.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.noisestopsystems.sg/products_soundproofing_asia_singapore_buy_products.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

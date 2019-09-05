@@ -1,0 +1,81 @@
+/* CSS Document */
+body {
+	background-color: #e1dcc7;
+}
+table.myLinks {
+background-color:#000000;
+}
+td.myLinks  {
+    font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:10px;
+        color:#FFFFFF;
+	padding-bottom:2px;
+	padding-top:2px;
+	padding-left:2px;
+	padding-right:2px;
+}
+td.warn {
+	color:#FF0000;
+}
+
+td.question {
+	color: #990033;
+}
+td.answer {
+	color: #3333CC;
+}
+a {
+    font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:11px;
+	font-weight:bold;
+        color:#FFFF00;
+	padding-bottom:2px;
+	padding-top:2px;
+	padding-left:2px;
+	padding-right:2px;
+	text-decoration:none;
+}
+a:hover {
+    background-color:#CCCCCC;
+    color:#000000;
+}
+a.small {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#669933
+}
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size:8px;
+	text-align:right
+}
+td, select, input, textarea {	
+	font-family: Verdana, Helvetica, sans-serif; 
+	font-size:10px
+}
+td.pageTitle {
+	color:#804000;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+td.quote {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:11px;
+	font-style:oblique;
+	font-weight:bold;
+    padding-top:10px;
+	padding-bottom:10px;
+	padding-left:30px;
+	color:#006699;
+}
+
+td.colName {
+	background-color: #6F3737;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding-left:5px;
+}

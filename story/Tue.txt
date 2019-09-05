@@ -1,0 +1,10 @@
+Tuesday Soundproofing Question.
+
+What is sound?
+
+Sound is the quickly varying pressure wave within a medium that can travel widely in that medium. 
+We usually mean audible sound, which is the sensation (as detected by the ear) of very small rapid changes in the air pressure above and below a static value. This "static" value is atmospheric pressure (about 100,000 Pascals) which does nevertheless vary slowly, as shown on a barometer. 
+
+Associated with the sound pressure wave is a flow of energy. Sound is often represented diagrammatically as a sine wave, but physically sound (in air) is a longitudinal wave where the wave motion is in the direction of the movement of energy. 
+
+The wave crests can be considered as the pressure maxima whilst the troughs represent the pressure minima.

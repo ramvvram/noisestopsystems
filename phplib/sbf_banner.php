@@ -1,0 +1,1 @@
+ <img src="/images/advert-banner-1.gif" width="536" height="75">
